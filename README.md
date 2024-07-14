@@ -1,4 +1,5 @@
 ##API DEPLOYED ON RENDER###
+
 ##LOGIN GET REQUEST
 API: https://jobapplicationtracker-8k5u.onrender.com/api/v1/auth/login
 Request body: JSON object
